@@ -7,4 +7,6 @@
 
 1. [Разработка модели, предсказывающей статус студента](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Hackathon%202.pdf)
 2. [Разработка модели прогнозирования оттока пользователей](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Hackathon.pdf)
+2. [Классификация агрокультур (победитель)](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Innopolis.pdf)
+
 
