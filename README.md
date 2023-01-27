@@ -2,6 +2,8 @@
 
 1. [Интерактивный тренажер по SQL](https://github.com/mrkvsv/Certificates/blob/main/stepik-certificate-SQL.pdf)
 2. [Введение в Data Science и машинное обучение](https://github.com/mrkvsv/Certificates/blob/main/stepik-certificate-ML.pdf)
+3. [Data Scientist Professional Training Course](https://github.com/mrkvsv/Certificates/blob/main/Certificate%20Data%20Science.pdf)
+
 
 # Hackathon Certificates
 
